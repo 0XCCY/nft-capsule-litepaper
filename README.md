@@ -11,4 +11,4 @@ NFTC provides two main features:
 
 1. A prize list that is made up of existing NFTs.
 
-2. A prize list that is made up of a collection of NFT with different rarity
+2. A prize list that is made up of a collection of NFTs with different rarity that is randomly mint through distributable codes.
